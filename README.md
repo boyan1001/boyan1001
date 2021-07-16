@@ -12,9 +12,7 @@ Talk with me by Email or Telegram
 Follow me on Twitter bilibili or Telegram channel
 
 - 🔭 I’m currently working on anhui,China
-- 🌱 I’m currently learning Springboot\SpringCloud
-- 👯 I’m looking to collaborate on Java
-- 🤔 I’m looking for help with SpringCloud
+- 🌱 I’m currently learning AI
 - 💬 Ask me about Python,Java,VUE...
 - 📫 How to reach me: wangchuanli_@hotmail.com
 <!-- 
