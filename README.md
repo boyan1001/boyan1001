@@ -1,4 +1,4 @@
-[![Focus Repo](https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif)](https://github.com/wangchuanli001)
+[![Focus Repo](https://cdn.jsdelivr.net/gh/wangchuanli001/cdn/blob/master/sources/20200603151246_srxkn.gif)](https://github.com/wangchuanli001)
 ### Hi there 👋![]( https://visitor-badge.glitch.me/badge?page_id=wangchuanli001)
 
 欢迎来的我的github页面~
