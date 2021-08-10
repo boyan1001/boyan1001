@@ -17,12 +17,12 @@ Follow me on Twitter bilibili or Telegram channel
 
 ----
 <div style="height:300px;">
-  <div style="float:left;">
+<!--   <div>
     <a href="https://github.com/wangchuanli001">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css&layout=compact&locale=en"/>
     </a>
-  </div>
-  <div style="float:right;">
+  </div> -->
+  <div>
     <a href="https://github.com/wangchuanli001">
     <img  src="https://github-readme-stats.vercel.app/api?username=wangchuanli001&count_private=true&show_icons=true&theme=&locale=en"/>
     </a>
