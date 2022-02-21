@@ -32,35 +32,31 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
 
 ### 👨‍💻Languages
 
+[![](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)]()
+[![](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)]()
-[![](https://img.shields.io/badge/-JAVASCRIPT-ead41c?&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/-Node.js-43853d?&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)]()
 [![](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)]()
 [![](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)]()
-[![](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)]()
 [![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)]()
-[![](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white)]()
+[![](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)]()
 [![](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)]()
 [![](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)]()
 [![](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)]()
 
 ### 🗄️Database
 
-[![](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)]()
 [![](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)]()
 [![](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)]()
+[![](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)]()
+[![](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)]()
 [![](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)]()
 
 ### 💻Platform
@@ -81,4 +77,5 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
 [![](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white)]()
 [![](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]()
 [![](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)]()
+
 
