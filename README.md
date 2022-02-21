@@ -18,12 +18,12 @@ Follow me on [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat
 
 ----
 <div style="height:300px;">
-<!--   <div>
+  <div style="float:left;">
     <a href="https://github.com/wangchuanli001">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css&layout=compact&locale=en"/>
     </a>
-  </div> -->
-  <div>
+  </div>
+  <div style="float:right;">
     <a href="https://github.com/wangchuanli001">
     <img  src="https://github-readme-stats.vercel.app/api?username=wangchuanli001&count_private=true&show_icons=true&theme=&locale=en"/>
     </a>
