@@ -4,32 +4,29 @@
   <img style="width:100vw;" src="https://cdn.jsdelivr.net/gh/wangchuanli001/cdn/sources/20200603151246_srxkn.gif" alt="wangchuanli001"/>
   </a>
 </div>
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-![]( https://visitor-badge.glitch.me/badge?page_id=wangchuanli001)
-![](https://komarev.com/ghpvc/?username=wangchuanli001)
+
 欢迎来的我的github页面~
 
 Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wangchuanli001.github.io/)
 
 Talk with me by [![mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](email://wangchaunli_@hotmail.com) or [![QQ](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=978252321&site=qq&menu=yes)
 
-Follow me on [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wangchaunli)  or Telegram
+Follow me on [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iwangchaunli)  or Telegram
 
 ----
-<div style="height:300px;">
-  <div style="float:left;">
+<!-- <div style="height:300px;">
+   <div style="float:left;">
     <a href="https://github.com/wangchuanli001">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css&layout=compact&locale=en"/>
     </a>
-  </div>
+  </div> 
   <div style="float:right;">
     <a href="https://github.com/wangchuanli001">
     <img  src="https://github-readme-stats.vercel.app/api?username=wangchuanli001&count_private=true&show_icons=true&theme=&locale=en"/>
     </a>
   </div>
-</div>
----
+</div> -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wamgchuanli's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=wangchuanli001&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
