@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
   # Manual triggers with workflow_dispatch
-  workflow_dispatch:
+  workflow_dispatch: 
 jobs:
   update-gist:
     runs-on: ubuntu-latest
@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: matchai/waka-box@master
         env:
-          GH_TOKEN: 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
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 9e1675b02d0437e30dd777941daf8f55
-          WAKATIME_API_KEY: da01e3a5-947d-4c6f-9ae7-ed7dc24bd769
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
