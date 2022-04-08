@@ -30,8 +30,10 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
 </details>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wamgchuanli's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=iwangchuanli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
----
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 👨‍💻Languages
 
