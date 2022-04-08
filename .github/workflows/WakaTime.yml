@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: da01e3a5-947d-4c6f-9ae7-ed7dc24bd769
+          GH_TOKEN: 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
   update-gist:
     runs-on: ubuntu-latest
     steps:
@@ -20,6 +20,6 @@ jobs:
       - name: Update gist
         uses: matchai/waka-box@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: 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
           GIST_ID: f0e660de57cf82942fbd6bb803c6c815
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: da01e3a5-947d-4c6f-9ae7-ed7dc24bd769
