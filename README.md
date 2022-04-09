@@ -32,8 +32,6 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
 
 
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### 👨‍💻Languages
 
