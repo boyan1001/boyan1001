@@ -28,8 +28,10 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wamgchuanli's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=iwangchuanli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=wangchuanli&api_domain=wakapi.einverne.info&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code Time&layout=compact)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wamgchuanli's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=iwangchuanli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
