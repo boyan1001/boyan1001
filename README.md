@@ -19,42 +19,49 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## ⚙️ Tech Skills
+## ⚙️ Code Skills
 
 <table>
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       <br>Go
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
       <br>Vue
-       <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Vue&style=flat-square&color=blue&label=time"/>
+       <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Vue&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Docker" />
+      <br>SQL
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:SQL&style=flat-square&color=blue&label=time"/>
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width="48" height="48" alt="Docker" />
+      <br>Bash
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Bash&style=flat-square&color=blue&label=time"/>
+    </td>
+    
   </tr>
 </table>
+
 ----
 
 <details> 
@@ -67,8 +74,6 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=wangchuanli&api_domain=wakapi.einverne.info&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Code-Time&layout=compact)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wamgchuanli's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=iwangchuanli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
