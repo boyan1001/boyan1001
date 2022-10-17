@@ -9,7 +9,7 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 	
 Welcome to WangChuanli's profile~
 
-![](https://visitor-badge.glitch.me/badge?page_id=iwangchuanli) ![](https://img.shields.io/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:30_days&label=last%2030d) ![Followers](https://badges.fw-web.space/github/followers/iwangchuanli?style=flat-square&logo=github)
+![](https://visitor-badge.glitch.me/badge?page_id=iwangchuanli&left_color=red&right_color=green) ![](https://img.shields.io/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:30_days&label=last%2030d) ![Followers](https://badges.fw-web.space/github/followers/iwangchuanli?style=flat-square&logo=github)
 
 ## 👨‍💻 About Me
 
