@@ -1,14 +1,17 @@
-
+<!-- 
 <div>
 <a href="https://github.com/wangchuanli001">
   <img style="width:100vw;" src="https://cdn.jsdelivr.net/gh/wangchuanli001/cdn/sources/20200603151246_srxkn.gif" alt="wangchuanli001"/>
   </a>
-</div>
+</div> -->
 
 
-### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 	![]( https://visitor-badge.glitch.me/badge?page_id=iwangchuanli)
-
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 	
 Welcome to WangChuanli's profile~
+
+![](https://visitor-badge.glitch.me/badge?page_id=iwangchuanli) ![](https://img.shields.io/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:30_days&label=last%2030d) ![Followers](https://badges.fw-web.space/github/followers/iwangchuanli?style=flat-square&logo=github)
+
+## 👨‍💻 About Me
 
 Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://iwangchuanli.github.io/) ,Talk with me by [![mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](email://wangchaunli_@hotmail.com) or [![QQ](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=978252321&site=qq&menu=yes) ,Follow me on [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iwangchaunli)  or Telegram
 
@@ -16,6 +19,42 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+## ⚙️ Tech Skills
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+      <br>Go
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+    </td>
+     <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      <br>Vue
+       <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Vue&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/wangchuanli/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
+    </td>
+  </tr>
+</table>
 ----
 
 <details> 
