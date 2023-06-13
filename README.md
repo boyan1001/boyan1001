@@ -15,9 +15,10 @@ Welcome to WangChuanli's profile~
 
 Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://iwangchuanli.github.io/) ,Talk with me by [![mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](email://wangchaunli_@hotmail.com) or [![QQ](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=978252321&site=qq&menu=yes) ,Follow me on [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iwangchaunli)  or Telegram
 
+<!-- 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+</p> -->
 
 ## ⚙️ Code Skills
 
@@ -74,8 +75,6 @@ Read more about my [![blog](https://img.shields.io/badge/-Blog-21759B?style=flat
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wamgchuanli's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=iwangchuanli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
