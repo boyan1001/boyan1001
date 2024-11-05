@@ -23,13 +23,13 @@ I major in computer science and information engineering.
   
 ## 🕶️ Competition and Event Performance  
 
-* 2024 **師大資工白客松**  
-* CPE **4題**  
-* 111學年度學科能力競賽 地球科學科：**全國決賽三等獎(全國第17名)**  
-* 校內科展 地球科學科佳作  
-* 參加 GLOBE 科展
-* 中壢高中科學研究社12屆 副社長
-* 2024 師大資工營 場器股 
+* 2024 **NTNUHackathon**  
+* CPE **4/7**  
+* 2022(111) 學科能力競賽 地球科學科 : **全國決賽三等獎(全國第17名)**
+* High School Science Fair : Honorable Mention (In school)  
+* Participation **2021 Globe Asia-Pacific Regional GLE**  
+* CLHS CLSC 12th : **Vice Director**
+* 2024 NTNU CSIEcamp : Equipment Section  
 
 <!-- 
 <p align="center">
