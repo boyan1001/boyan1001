@@ -1,16 +1,9 @@
-![](https://img.shields.io/github/last-commit/boyan1001/boyan1001?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=boyan1001&label=views)
-
-<!-- 
-<div>
-<a href="https://github.com/boyan1001">
-  <img style="width:100vw;" src="https://cdn.jsdelivr.net/gh/wangchuanli001/cdn/sources/20200603151246_srxkn.gif" alt="boyan1001"/>
-  </a>
-</div> -->
-
+<p align="center">
+<img src="https://media.giphy.com/media/l41lL7byr2fvtxVHa/giphy.gif">
+</p>  
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Boyan1001 	
-An undergraduated student from NTNU, Taiwan.    
+Welcome to my page!     
   
 [![Instagram](https://img.shields.io/badge/boyan_1001-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyan_1001/)
 [![Facebook](https://img.shields.io/badge/boyan_chen-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100013555414030&locale=zh_TW)
@@ -65,18 +58,6 @@ I major in computer science and information engineering.
 ### 👨‍💻 Others  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 
-
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="boyan1001's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=boyan1001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="boyan1001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan100&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  
-[![iwangchuanli](https://github-profile-trophy.vercel.app/?username=iwangchuanli)](https://github.com/iwangchuanli)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
----
-
+## Github Status  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyan1001&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boyan1001&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
