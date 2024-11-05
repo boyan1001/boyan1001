@@ -3,6 +3,7 @@
 </p>  
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Boyan1001 	
+[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)  
 Welcome to my page!     
   
 [![Instagram](https://img.shields.io/badge/boyan_1001-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyan_1001/)
