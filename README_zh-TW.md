@@ -20,7 +20,7 @@ Welcome to my page!
 
 大學以前沒深入過資訊領域，現在正在努力地學習。  
   
-## 🕶️ Competition and Event Performance  
+## 🕶️ 競賽與活動表現  
 
 * 2024 **師大資工黑客松**  
 * CPE **4題**  
