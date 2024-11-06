@@ -49,6 +49,7 @@
 
 ### 💻 环境  
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
 
 ### 🧰 开发工具   
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
