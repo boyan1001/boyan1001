@@ -62,7 +62,7 @@ I major in computer science and information engineering.
 
 ## 🏆 GitHub Activity  
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=boyan1001&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=boyan1001&theme=algolia&column=-1&margin-w=15" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyan1001&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
