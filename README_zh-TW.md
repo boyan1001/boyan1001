@@ -58,7 +58,7 @@
 ### 👨‍💻 其他  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 
-## 🏆 GitHub Activity  
+## 🏆 GitHub 活動統計  
 <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=boyan1001&theme=algolia&column=-1&margin-w=15" />
 </p>
