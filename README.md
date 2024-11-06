@@ -5,7 +5,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Boyan1001 	
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-TW.md)  
   
-Welcome to my page!     
+Welcome to my profile!     
   
 [![Instagram](https://img.shields.io/badge/boyan_1001-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyan_1001/)
 [![Facebook](https://img.shields.io/badge/boyan_chen-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100013555414030&locale=zh_TW)
