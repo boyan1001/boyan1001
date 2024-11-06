@@ -22,17 +22,22 @@ You can also call me Toast.
   
 I am an undergraduated student of National Taiwan Normal University (NTNU), Taiwan.    
   
-I major in computer science and information engineering.
-  
-## 🕶️ Competition and Event Performance  
+I major in computer science and information engineering.   
 
-* 2024 **NTNUHackathon**  
-* CPE **4/7**  
+## 🎓Education  
++ Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
++ The Affiliated Zhongli Senior High School of National Central University
+
+## 🏅Accomplishments
+* 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
+* CPE **4/7**
+* 2024 **NTNUHackathon**
 * 2022(111) 學科能力競賽 地球科學科 : **全國決賽三等獎(全國第17名)**
 * High School Science Fair : Honorable Mention (In school)  
-* Participation **2021 Globe Asia-Pacific Regional GLE**  
-* CLHS CLSC 12th : **Vice Director**
-* 2024 NTNU CSIEcamp : Equipment Section  
+
+## 🪁Social Network & Leader Experience  
+* CLHS CLSC 12th : **Vice Director**  
+* 2024 NTNU CSIEcamp : Equipment Section   
 
 <!-- 
 <p align="center">
