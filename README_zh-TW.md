@@ -58,11 +58,13 @@
 ### 👨‍💻 其他  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 
-## 🏆 GitHub 活動統計  
+## 🏆 GitHub Activity  
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=boyan1001&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=boyan1001&theme=algolia&column=-1&margin-w=15" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyan1001&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boyan1001&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan1001&theme=tokyo-night&custom_title=Hank%20Chen's%20的活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/boyan1001)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan1001&theme=tokyo-night&custom_title=Hank%20Chen's%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/boyan1001)
+![.](./profile-3d-contrib/profile-night-rainbow.svg)
+
