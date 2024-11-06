@@ -51,12 +51,16 @@ I major in computer science and information engineering.
 
 ### 💻 Platform  
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
 
 ### 🧰 Tools 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![GithubPage](https://img.shields.io/badge/Github_Page-100000.svg?logo=github&logoColor=white&style=for-the-badge)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white&style=for-the-badge)
 
 ### 👨‍💻 Others  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
