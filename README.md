@@ -30,7 +30,7 @@ I major in computer science and information engineering.
 
 ## 🏅Accomplishments
 * 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
-* CPE **4/7**
+* CPE **5/7**
 * 2024 **NTNUHackathon**
 * 2022(111) 學科能力競賽 地球科學科 : **全國決賽三等獎(全國第17名)**
 * High School Science Fair : Honorable Mention (In school)  
