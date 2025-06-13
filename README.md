@@ -45,7 +45,14 @@ I major in computer science and information engineering.
 </p> -->
 
 ## ⚙️ Code Skills  
+### 👨‍💻 Frontend 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB&style=for-the-badge)
+
 ### 👨‍💻 Backend  
+![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
@@ -53,6 +60,8 @@ I major in computer science and information engineering.
 ### 👨‍💻 Devlop  
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge)
+
 
 ### 💻 Platform  
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
