@@ -18,7 +18,7 @@
   
 大家好，我是 boyan1001，也可以叫我吐司。  
 
-目前就讀**國立台灣師範大學 資訊工程學系** 大二。  
+目前就讀**國立台灣師範大學 資訊工程學系** 大三。  
 
 大學以前沒深入過資訊領域，現在正在努力地學習。  
   
@@ -32,7 +32,7 @@
 
 ## 🏅 比賽經驗
 * 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
-* CPE **4題**
+* CPE **5題**
 * 2024 **師大資工黑客松**
 * 2022(111) 學科能力競賽 地球科學科 : **全國決賽三等獎(全國第17名)**
 * 高中科展 : 佳作 (校內)  
@@ -40,7 +40,7 @@
 ## 🪁 社團活動與表現  
 * 中壢高中科學研究社 : **副社長**
 * SITCON 師大資工攤位 : **籌備**
-* NTNU CSIE Universe : **管理員實習生**
+* NTNU CSIE Universe : **管理員**
 * 2025 師大資工營 : 教學股 / 研發組
 * 2024 師大資工營 : 場器股   
 
@@ -50,7 +50,14 @@
 </p> -->
 
 ## ⚙️ 技能  
+### 👨‍💻 前端 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB&style=for-the-badge)
+
 ### 👨‍💻 後端  
+![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
@@ -58,6 +65,7 @@
 ### 👨‍💻 Devlop  
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge)
 
 ### 💻 環境  
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
