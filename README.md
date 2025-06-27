@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/l41lL7byr2fvtxVHa/giphy.gif">
 </p>  
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Boyan1001 	
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Toast Chen  	
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-TW.md)  
   
 Welcome to my profile!     
@@ -16,7 +16,7 @@ Welcome to my profile!
 
 ## 👨‍💻 About Me  
 
-Hi, I am Boyan1001.  
+Hi, I am Toast Chen.  
   
 You can also call me Toast.  
   
