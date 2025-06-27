@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/l41lL7byr2fvtxVHa/giphy.gif">
 </p>  
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Boyan1001 	
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Toast Chen  	
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-TW.md)  
   
 歡迎來到我的個人檔案     
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 關於我  
   
-大家好，我是 boyan1001，也可以叫我吐司。  
+大家好，我是 Toast Chen，也可以叫我吐司。  
 
 目前就讀**國立台灣師範大學 資訊工程學系** 大三。  
 
