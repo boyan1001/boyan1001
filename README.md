@@ -88,3 +88,6 @@ I major in computer science and information engineering.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boyan1001&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan1001&theme=tokyo-night&custom_title=Hank%20Chen's%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/boyan1001)
 ![.](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## 💪 Support
+<a href="https://www.buymeacoffee.com/toastchen"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=toastchen&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
