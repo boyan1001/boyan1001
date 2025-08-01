@@ -28,6 +28,9 @@ I major in computer science and information engineering.
 + Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
 + The Affiliated Zhongli Senior High School of National Central University
 
+## 👨‍💻Work experience
++ Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
+
 ## 🏅Accomplishments
 * 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
 * CPE **5/7**
@@ -37,7 +40,9 @@ I major in computer science and information engineering.
 
 ## 🪁Social Network & Leader Experience  
 * CLHS CLSC 12th : **Vice Director**  
-* 2024 NTNU CSIEcamp : Equipment Section   
+* 2024 NTNU CSIEcamp : Equipment Section  
+* 2025 NTNU CSIEcamp : Teaching Section, Technical Section  
+* 2025 NTNU CSIE Student Association : Technical Section  
 
 <!-- 
 <p align="center">
