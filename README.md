@@ -62,7 +62,7 @@ I major in computer science and information engineering.
 ![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
-### 👨‍💻 DevOp 
+### 👨‍💻 DevOps 
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge)  
