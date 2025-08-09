@@ -29,6 +29,7 @@ I major in computer science and information engineering.
 + The Affiliated Zhongli Senior High School of National Central University
 
 ## 👨‍💻Work experience
++ Theory of Probability Teaching Assistant (2025.09 ~ 2025.12)  
 + Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
 
 ## 🏅Accomplishments
