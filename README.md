@@ -33,6 +33,7 @@ I major in computer science and information engineering.
 + Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
 
 ## 🏅Accomplishments
+* 2025 **GDG Taipei Dev Jam** : 決賽佳作  
 * 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
 * CPE **5/7**
 * 2024 **NTNUHackathon**
