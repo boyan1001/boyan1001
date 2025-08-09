@@ -10,7 +10,7 @@ Welcome to my profile!
 [![Instagram](https://img.shields.io/badge/boyan_1001-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyan_1001/)
 [![Facebook](https://img.shields.io/badge/boyan_chen-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100013555414030&locale=zh_TW)
 [![Linkedin](https://img.shields.io/badge/Poyen_Chen-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/%E6%9F%8F%E8%AB%BA-%E9%99%B3-822b15320/)
-[![Toast's_coding_world](https://img.shields.io/badge/Toast's_coding_world-FF5722.svg?logo=blogger&logoColor=white&style=for-the-badge)](https://boyan1001.github.io/)
+[![Toast's_coding_world](https://img.shields.io/badge/My_blog-FF5722.svg?logo=blogger&logoColor=white&style=for-the-badge)](https://toastcoding.com/)
 [![Github](https://img.shields.io/badge/boyan1001-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/boyan1001)
 [![Gmail](https://img.shields.io/badge/cby931001@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cby931001@gmail.com)  
 
@@ -85,6 +85,8 @@ I major in computer science and information engineering.
 
 ### 👨‍💻 Others  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
 ## 🏆 GitHub Activity  
 <p>
