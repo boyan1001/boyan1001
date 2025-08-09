@@ -20,17 +20,18 @@
 
 目前就讀**國立台灣師範大學 資訊工程學系** 大三。  
 
-大學以前沒深入過資訊領域，現在正在努力地學習。  
+目前對於 **機器學習、影像處理、語音處理、大語言模型、後端** 有興趣  
   
 ## 🎓 學經歷  
 + 國立臺灣師範大學  資訊工程學系  
 + 國立中央大學附屬中壢高級中學
 
 ## 💼 工作經驗  
-+ 中央研究院: **長期實習生**
++ 機率論 助教  
++ 中央研究院 數位文化中心 **實習生**  
 + 家教  
 
-## 🏅 比賽經驗
+## 🏅 比賽經驗  
 * 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
 * CPE **5題**
 * 2024 **師大資工黑客松**
@@ -67,6 +68,8 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
 
 ### 💻 環境  
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
@@ -83,6 +86,8 @@
 
 ### 👨‍💻 其他  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
 ## 🏆 GitHub 活動統計  
 <p>
