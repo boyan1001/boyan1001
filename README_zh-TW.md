@@ -3,7 +3,7 @@
 </p>  
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Toast Chen  	
-[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-TW.md)  
+[English](./README.md)  | [繁體中文](./README_zh-TW.md)  
   
 歡迎來到我的個人檔案     
   
