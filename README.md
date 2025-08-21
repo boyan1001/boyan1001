@@ -28,7 +28,7 @@ I major in computer science and information engineering.
 + Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
 + The Affiliated Zhongli Senior High School of National Central University
 
-## 👨‍💻Work experience
+## 👨‍💻Employment History
 + Theory of Probability Teaching Assistant (2025.09 ~ 2025.12)  
 + Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
 
