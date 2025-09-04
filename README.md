@@ -30,7 +30,7 @@ I major in computer science and information engineering.
 
 ## 👨‍💻Employment History
 + Theory of Probability Teaching Assistant (2025.09 ~ 2025.12)  
-+ Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
++ Machine Learninig Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
 
 ## 🏅Accomplishments
 * 2025 **GDG Taipei Dev Jam** : 決賽佳作  
@@ -41,10 +41,11 @@ I major in computer science and information engineering.
 * High School Science Fair : Honorable Mention (In school)  
 
 ## 🪁Social Network & Leader Experience  
-* CLHS CLSC 12th : **Vice Director**  
+* 2025 GDG on campus NTNU  : Tech Core Team  
+* 2025 NTNU CSIE Student Association : Technical Section
+* 2025 NTNU CSIEcamp : Teaching Section, Technical Section
 * 2024 NTNU CSIEcamp : Equipment Section  
-* 2025 NTNU CSIEcamp : Teaching Section, Technical Section  
-* 2025 NTNU CSIE Student Association : Technical Section  
+* CLHS CLSC 12th : **Vice Director**  
 
 <!-- 
 <p align="center">
