@@ -3,7 +3,7 @@
 </p>  
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Toast Chen  	
-[English](./README.md) | [繁體中文](./README_zh-TW.md)  
+[English](./README.md)
   
 Welcome to my profile!     
   
@@ -90,6 +90,7 @@ I major in computer science and information engineering.
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 ![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft＿Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)  
 
 ## 🏆 GitHub Activity  
 <p>
