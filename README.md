@@ -54,7 +54,7 @@ I major in computer science and information engineering.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> -->
 
-## ⚙️ Code Skills  
+## ⚙️ Tech stack
 ### 👨‍💻 Frontend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
@@ -65,6 +65,11 @@ I major in computer science and information engineering.
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+
+### 👨‍💻 Database  
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![sqlite](https://img.shields.io/badge/sqlite-07405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
 
 ### 👨‍💻 DevOps 
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
@@ -88,7 +93,6 @@ I major in computer science and information engineering.
 
 ### 👨‍💻 Others  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft＿Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)  
 
