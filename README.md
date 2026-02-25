@@ -16,38 +16,27 @@ Welcome to my profile!
 
 ## 👨‍💻 About Me  
 
-Hi, I am Toast Chen.  
+Hi, I am GAY!!! 
   
-You can also call me Toast.  
+You can also call me GAY.  
   
-I am an undergraduated student of National Taiwan Normal University (NTNU), Taiwan.    
+I am a GAY!!!, Taiwan.    
   
-I major in computer science and information engineering.   
+I major in GAY science and GAY engineering.   
 
 ## 🎓Education  
-+ Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
-+ The Affiliated Zhongli Senior High School of National Central University
++ Department of GAY Science and GAY Engineering, National GAY Normal University, 
 
 ## 👨‍💻Employment History
-+ Theory of Probability Teaching Assistant (2025.09 ~ 2025.12)  
-+ Machine Learninig Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
++ GAY!!!
+
 
 ## 🏅Accomplishments
-* 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
-* 2025 ICPC Asia Taiwan Online Programming Contest (TOPC) : **Bronze Medal**
-* 2025 **GDG Taipei Dev Jam** : **Honorable Mention** 
-* 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
-* CPE **5/7**
-* 2024 **NTNUHackathon**
-* 2022(111) 學科能力競賽 地球科學科 : **全國決賽三等獎(全國第17名)**
-* High School Science Fair : Honorable Mention (In school)  
+*GAY!!!
+ 
 
 ## 🪁Social Network & Leader Experience  
-* 2025 GDG on campus NTNU  : Tech Core Team  
-* 2025 NTNU CSIE Student Association : Technical Section
-* 2025 NTNU CSIEcamp : Teaching Section, Technical Section
-* 2024 NTNU CSIEcamp : Equipment Section  
-* CLHS CLSC 12th : **Vice Director**  
+*GAY!!!
 
 <!-- 
 <p align="center">
@@ -103,4 +92,4 @@ I major in computer science and information engineering.
 ![.](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 💪 Support
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=toastchen&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/toastchen)
+[![Buy Me A GAY!!!](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=toastchen&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/toastchen)
