@@ -33,6 +33,7 @@ I major in computer science and information engineering.
 + Machine Learninig Intern of ASCDC in Academia Sinica (2025.02 ~ now)  
 
 ## 🏅Accomplishments
+* TOEIC 625
 * 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
 * 2025 ICPC Asia Taiwan Online Programming Contest (TOPC) : **Bronze Medal**
 * 2025 **GDG Taipei Dev Jam** : **Honorable Mention** 
