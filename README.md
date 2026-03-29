@@ -34,6 +34,7 @@ I major in computer science and information engineering.
 + Teaching Assistant | Theory of Probability (2025.09 ~ 2025.12)  
 
 ## 🏅Accomplishments
+* TOEIC 625
 * 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
 * 2025 ICPC Asia Taiwan Online Programming Contest (TOPC) : **Bronze Medal**
 * 2025 **GDG Taipei Dev Jam** : **Honorable Mention** 
