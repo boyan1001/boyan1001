@@ -8,8 +8,8 @@
 Welcome to my profile!     
   
 [![Instagram](https://img.shields.io/badge/boyan_1001-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/boyan_1001/)
-[![Facebook](https://img.shields.io/badge/boyan_chen-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100013555414030&locale=zh_TW)
-[![Linkedin](https://img.shields.io/badge/Poyen_Chen-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/toast1001)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cby931001)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/toast1001)
 [![Toast's_coding_world](https://img.shields.io/badge/My_blog-FF5722.svg?logo=blogger&logoColor=white&style=for-the-badge)](https://toastcoding.com/)
 [![Github](https://img.shields.io/badge/boyan1001-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/boyan1001)
 [![Gmail](https://img.shields.io/badge/cby931001@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cby931001@gmail.com)  
@@ -26,7 +26,6 @@ I major in computer science and information engineering.
 
 ## 🎓Education  
 + Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
-+ The Affiliated Zhongli Senior High School of National Central University
 
 ## 👨‍💻Employment History
 + Teaching Assistant | Data Science in Education Research (2025.03 ~ now)  
@@ -37,10 +36,8 @@ I major in computer science and information engineering.
 * 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
 * 2025 ICPC Asia Taiwan Online Programming Contest (TOPC) : **Bronze Medal**
 * 2025 **GDG Taipei Dev Jam** : **Honorable Mention** 
-* 2024 國立臺灣師範大學 第十二屆程式設計通識課程 : **專題特優獎**
 * CPE **5/7**
 * 2024 **NTNUHackathon**
-* 2022(111) 學科能力競賽 地球科學科 : **全國決賽三等獎(全國第17名)**
 * High School Science Fair : Honorable Mention (In school)  
 
 ## 🪁Social Network & Leader Experience  
@@ -49,11 +46,6 @@ I major in computer science and information engineering.
 * 2025 NTNU CSIEcamp : Teaching Section, Technical Section
 * 2024 NTNU CSIEcamp : Equipment Section  
 * CLHS CLSC 12th : **Vice Director**  
-
-<!-- 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> -->
 
 ## ⚙️ Tech stack
 ### 👨‍💻 Frontend 
