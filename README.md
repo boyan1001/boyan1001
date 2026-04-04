@@ -105,7 +105,7 @@ I major in computer science and information engineering.
 ## 🏆 GitHub Activity  
 ![Top Languages](./profile/top-langs.svg)
 ![Stats](./profile/stats.svg)
-[![trophy](https://gh-trophy.cdnsoft.net/?username=boyan1001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=boyan1001&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boyan1001/boyan1001/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boyan1001/boyan1001/output/github-snake.svg" />
