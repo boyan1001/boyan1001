@@ -84,6 +84,8 @@ I major in computer science and information engineering.
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
+### ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ☁️ Cloud
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
@@ -101,6 +103,7 @@ I major in computer science and information engineering.
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
 ## 🏆 GitHub Activity  
+[![trophy](https://gh-trophy.cdnsoft.net/?username=boyan1001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan1001&theme=tokyo-night&custom_title=Hank%20Chen's%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/boyan1001)
 ![.](./profile-3d-contrib/profile-night-rainbow.svg)
 
