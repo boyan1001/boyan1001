@@ -10,5 +10,5 @@
     # Output path for SVG file (relative path; include filename with .svg).
     path: # optional, default is 
     # GitHub token (PAT or GITHUB_TOKEN).
-    token: # optional, default is 
+    token: ${{ secrets.GH_TOKEN }}
           
