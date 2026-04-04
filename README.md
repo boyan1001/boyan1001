@@ -103,9 +103,13 @@ I major in computer science and information engineering.
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
 ## 🏆 GitHub Activity  
+![Top Languages](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)
 [![trophy](https://gh-trophy.cdnsoft.net/?username=boyan1001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan1001&theme=tokyo-night&custom_title=Hank%20Chen's%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/boyan1001)
-![.](./profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 💪 Support
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=toastchen&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/toastchen)
