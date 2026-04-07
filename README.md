@@ -47,22 +47,19 @@ I major in computer science and information engineering.
 * CLHS CLSC 12th : **Vice Director**  
 
 ## ⚙️ Tech stack
-### 👨‍💻 Frontend 
+### 👨‍💻 Frontend/Backend/Database
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-
-### 👨‍💻 Backend  
+![React](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-
-### 👨‍💻 Database  
 ![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![sqlite](https://img.shields.io/badge/sqlite-07405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
@@ -70,13 +67,13 @@ I major in computer science and information engineering.
 ### 👨‍💻 DevOps 
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
 ### 💻 OS   
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
+![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 
@@ -101,6 +98,7 @@ I major in computer science and information engineering.
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white&style=for-the-badge)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 🏆 GitHub Activity  
 ![Top Languages](./profile/top-langs.svg)
