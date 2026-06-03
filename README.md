@@ -27,7 +27,8 @@ I major in computer science and information engineering.
 + Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
 
 ## 👨‍💻Employment History
-+ Teaching Assistant | Data Science in Education Research (2025.03 ~ now)  
++ Research Intern | Institute of Information Science, Academia Sinica (2026.06 ~ now)
++ Teaching Assistant | Data Science in Education Research (2026.03 ~ 2026.06)  
 + Machine Learninig Intern of ASCDC in Academia Sinica (2025.02 ~ 2026.02)  
 + Teaching Assistant | Theory of Probability (2025.09 ~ 2025.12)  
 
