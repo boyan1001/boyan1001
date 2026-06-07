@@ -15,13 +15,15 @@ Welcome to my profile!
 
 ## 👨‍💻 About Me  
 
-Hi, I am Toast Chen.  
+Hi, I am Po-Yen Chen.  
   
 You can also call me Toast.  
   
 I am an undergraduated student of National Taiwan Normal University (NTNU), Taiwan.    
   
-I major in computer science and information engineering.   
+I major in computer science and information engineering.
+
+Currently specializing in **backend development**, **speech processing**, **spoken language understanding**.
 
 ## 🎓Education  
 + Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
@@ -38,8 +40,9 @@ I major in computer science and information engineering.
 ## 🏅Accomplishments
 * 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
 * 2025 ICPC Asia Taiwan Online Programming Contest (TOPC) : **Bronze Medal**
-* 2025 **GDG Taipei Dev Jam** : **Honorable Mention** 
 * CPE **5/7**
+* 2025 **GDG Taipei Dev Jam** : **Honorable Mention**
+* 2025 Normal Game Jam
 * 2024 **NTNUHackathon**
 * High School Science Fair : Honorable Mention (In school)  
 
