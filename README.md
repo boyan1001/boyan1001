@@ -35,7 +35,7 @@ Currently specializing in **backend development**, **speech processing**, **spok
 + Teaching Assistant | Theory of Probability (2025.09 ~ 2025.12)  
 
 ## 📑Publications
-+ **Po-Yen Chen**, Berlin Chen, "SFL-MTSC: Leveraging semantic frame-level multi-task self-consistency for robust multi-intent spoken language understanding," the 27st Annual Conference of the International Speech Communication Association (Interspeech 2026),  Sydney, Australia, September 27  to October 1 , 2026.
++ **Po-Yen Chen**, Berlin Chen, "[SFL-MTSC: Leveraging semantic frame-level multi-task self-consistency for robust multi-intent spoken language understanding](https://arxiv.org/abs/2606.25552)," the 27st Annual Conference of the International Speech Communication Association (Interspeech 2026),  Sydney, Australia, September 27  to October 1 , 2026.
 
 ## 🏅Accomplishments
 * 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
