@@ -23,14 +23,14 @@ I am an undergraduated student of National Taiwan Normal University (NTNU), Taiw
   
 I major in computer science and information engineering.
 
-Currently specializing in **backend development**, **speech processing**, **spoken language understanding**.
+Currently specializing in **backend development**, **speech processing**, **spoken language understanding**, **IoT development**.
 
 ## 🎓Education  
-+ Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan
++ Department of Computer Science and Information Engineering, National Taiwan Normal University, Taiwan (2023.09 ~ 2027.06)
 
 ## 👨‍💻Employment History
 + Research Intern | Institute of Information Science, Academia Sinica (2026.06 ~ now)
-+ Teaching Assistant | Data Science in Education Research (2026.03 ~ 2026.06)  
++ Teaching Assistant | Data Science in Education Research (2026.03 ~ 2026.06)
 + Machine Learninig Intern of ASCDC in Academia Sinica (2025.02 ~ 2026.02)  
 + Teaching Assistant | Theory of Probability (2025.09 ~ 2025.12)  
 
@@ -38,6 +38,7 @@ Currently specializing in **backend development**, **speech processing**, **spok
 + **Po-Yen Chen**, Berlin Chen, "[SFL-MTSC: Leveraging semantic frame-level multi-task self-consistency for robust multi-intent spoken language understanding](https://arxiv.org/abs/2606.25552)," the 27st Annual Conference of the International Speech Communication Association (Interspeech 2026),  Sydney, Australia, September 27  to October 1 , 2026.
 
 ## 🏅Accomplishments
+* 2026 Special Topics Competition of NTNU CSIE: **Honorable Mention (Rank 4~11/ 51)**
 * 2025 ICPC Asia Taichung Regional Programming Contest：**Honorable Mention**
 * 2025 ICPC Asia Taiwan Online Programming Contest (TOPC) : **Bronze Medal**
 * CPE **5/7**
