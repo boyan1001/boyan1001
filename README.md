@@ -110,9 +110,6 @@ Currently specializing in **backend development**, **speech processing**, **spok
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 🏆 GitHub Activity  
-![Top Languages](./profile/top-langs.svg)
-![Stats](./profile/stats.svg)
-[![trophy](https://gh-trophy.cdnsoft.net/?username=boyan1001&title=-Stars,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boyan1001/boyan1001/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boyan1001/boyan1001/output/github-snake.svg" />
